@@ -1,11 +1,12 @@
 ### Hi there 👋
 
-💡 Try [Injector](https://github.com/yiisoft/injector) - an independent package from Yii Software. \
+💡 Try [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. \
 💡 If you need to generate a complex structure office document 📄 then try my
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
 [Opentbs plugin](https://github.com/Skrol29/opentbs).\
 💡 [Cycle ORM](https://github.com/cycle/orm) version 2 coming soon.
-Read summary [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf) [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa)
+Read summary [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf) [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa)\
+💡 [Buggregator](https://github.com/buggregator) — free debug tool.
 
 <!--
 **roxblnfk/roxblnfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
