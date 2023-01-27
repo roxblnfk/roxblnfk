@@ -4,12 +4,12 @@
 💡 If you need to generate a complex structure office document 📄 then try my
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
 [Opentbs plugin](https://github.com/Skrol29/opentbs).\
-💡 [Cycle ORM](https://github.com/cycle/orm) version 2 released.
+💡 [Cycle ORM](https://github.com/cycle/orm) version 2 was released.
 Read summary drafts:
 [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
 [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).
 [`Docs`](https://cycle-orm.dev/docs) [`ActiveRecord PoC`](https://github.com/roxblnfk/cycle-active-record)\
-💡 [Buggregator](https://github.com/buggregator) — free debug tool.\
+💡 [Buggregator](https://github.com/buggregator) — very cool debug tool. X10 better than Spatie Ray and it is FREE.\
 💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework.
 
 <!--
