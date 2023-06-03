@@ -32,3 +32,6 @@ Here are some ideas to get you started:
 <!--
 [![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=roxblnfk&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/roxblnfk/)
 -->
+
+[![Buy me a beer](https://gist.githubusercontent.com/juliomaqueda/1d4399f36b7350d6a73db6a470826076/raw/3c5d5e222f1805c2698227e4eb9c5458a8742b75/buy_me_a_coffee_badge.svg)](https://bmc.link/roxblnfk)
+[![roxblnfk](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Droxblnfk%26type%3Dpatrons&style=flat)](https://patreon.com/roxblnfk)
