@@ -9,8 +9,10 @@ Read summary drafts:
 [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
 [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).
 [`Docs`](https://cycle-orm.dev/docs) [`ActiveRecord PoC`](https://github.com/roxblnfk/cycle-active-record)\
-💡 [Buggregator](https://github.com/buggregator) — very cool debug tool. X10 better than Spatie Ray and it is FREE.\
-💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework.
+💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework.\
+💡 [Buggregator](https://github.com/buggregator) — very cool **free** debug tool. X10 better than Spatie Ray. Releases are coming!
+- [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)
+- [Buggregator Trap](https://github.com/buggregator/trap) — CLI debugger (WIP).
 
 <!--
 **roxblnfk/roxblnfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
