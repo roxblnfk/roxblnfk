@@ -10,7 +10,7 @@ Read summary drafts:
 [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).
 [`Docs`](https://cycle-orm.dev/docs) [`ActiveRecord PoC`](https://github.com/roxblnfk/cycle-active-record)\
 💡 [Temporal PHP-SDK](https://github.com/temporalio/sdk-php) — create reliable and scalable PHP applications easily\
-💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework.\
+💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework. Yes, it is better than Laravel.\
 💡 [Buggregator](https://github.com/buggregator) — very cool **free** debug tool. X10 better than Spatie Ray. Releases are coming!
 - [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)
 - [Buggregator Trap](https://github.com/buggregator/trap) — CLI debugger (WIP).
