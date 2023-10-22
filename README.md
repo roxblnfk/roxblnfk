@@ -13,7 +13,7 @@ Read summary drafts:
 💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework. Yes, it is better than Laravel.\
 💡 [Buggregator](https://github.com/buggregator) — very cool **free** debug tool. X10 better than Spatie Ray. Releases are coming!
 - [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)
-- [Buggregator Trap](https://github.com/buggregator/trap) — CLI debugger (WIP).
+- [Buggregator Trap](https://github.com/buggregator/trap) — CLI debugger.
 
 <!--
 **roxblnfk/roxblnfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
