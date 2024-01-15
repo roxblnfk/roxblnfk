@@ -17,7 +17,7 @@
   Read summary drafts:
   [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
   [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).  
- ✔️ Like ActiveRecord? Make it easily with Cycle: [` PoC`](https://github.com/roxblnfk/cycle-active-record).
+ ✔️ Like ActiveRecord? Make it easily with Cycle: [`PoC`](https://github.com/roxblnfk/cycle-active-record).
 
  ✔️ If you need to generate a complex structure office document 📄 using templates try my
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
