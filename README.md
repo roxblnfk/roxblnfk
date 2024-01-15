@@ -1,19 +1,26 @@
-### Hi there 👋
+### Currently hacking on
 
-💡 Try the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. \
-💡 If you need to generate a complex structure office document 📄 then try my
+- **[Yii 3](https://github.com/yiisoft) Framework**  
+ ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!
+- **[Cycle ORM](https://github.com/cycle/orm)**  
+ ✔️ Made Cycle ORM v2.
+  Read summary drafts:
+  [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
+  [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).  
+ ✔️ Like ActiveRecord? Make it easily with Cycle: [` PoC`](https://github.com/roxblnfk/cycle-active-record).
+- **[Spiral](https://github.com/spiral/framework) Framework**  
+  The best PHP framework for building distributed and reliable systems. There are Telemetry, IoC Scopes, full integration with [RoadRunner](https://github.com/roadrunner-server/roadrunner),
+  interceptors, gRPC and more.
+- **Temporal [PHP-SDK](https://github.com/temporalio/sdk-php)**  
+  Scalable and reliable runtime for durable function executions (Workflows).
+- **[Buggregator](https://github.com/buggregator)**  
+  Very cool **free** debug tool. X10 better than Spatie Ray and etc.  
+ ✔️ [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)  
+ ✔️ [Buggregator Trap](https://github.com/buggregator/trap) — debug helpers, CLI-server with console and web UI.
+
+ ✔️ If you need to generate a complex structure office document 📄 using templates try my
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
-[Opentbs plugin](https://github.com/Skrol29/opentbs).\
-💡 [Cycle ORM](https://github.com/cycle/orm) version 2 was released.
-Read summary drafts:
-[`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
-[`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).
-[`Docs`](https://cycle-orm.dev/docs) [`ActiveRecord PoC`](https://github.com/roxblnfk/cycle-active-record)\
-💡 [Temporal PHP-SDK](https://github.com/temporalio/sdk-php) — create reliable and scalable systems using PHP\
-💡 [Spiral Framework](https://github.com/spiral/framework) — the best PHP framework. Yes, it is better than Laravel.\
-💡 [Buggregator](https://github.com/buggregator) — very cool **free** debug tool. X10 better than Spatie Ray. Releases are coming!
-- [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)
-- [Buggregator Trap](https://github.com/buggregator/trap) — CLI debugger.
+[Opentbs plugin](https://github.com/Skrol29/opentbs).
 
 <!--
 **roxblnfk/roxblnfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
