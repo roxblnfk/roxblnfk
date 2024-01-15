@@ -9,9 +9,9 @@
 - **[Yii 3](https://github.com/yiisoft) Framework**  
   Release is comming.  
  ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!
-- **[Spiral](https://github.com/spiral/framework) Framework**  
+- **[Spiral](https://github.com/spiral)**  
   The best PHP framework for building distributed and reliable systems. There are Telemetry, IoC Scopes, full integration with [RoadRunner](https://github.com/roadrunner-server/roadrunner),
-  interceptors, gRPC and more.
+  interceptors, gRPC and more. [Blog](https://spiral.dev/blog).
 - **[Cycle ORM](https://github.com/cycle/orm)**  
  ✔️ Made Cycle ORM v2.
   Read summary drafts:
