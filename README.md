@@ -27,8 +27,10 @@
 ### Follow me
 
 [![Twitter](https://img.shields.io/badge/-Follow-black?style=flat-square&logo=X)](https://twitter.com/roxblnfk)
+[![Twitter](https://img.shields.io/badge/-Blog%20and%20Support-black?style=flat-square&logo=Patreon)](https://patreon.com/roxblnfk)
+<!--
 [![roxblnfk](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3Droxblnfk%26type%3Dpatrons%26suffix%3Dreaders&style=flat)](https://patreon.com/roxblnfk)
-
+-->
 
 <!--
 **roxblnfk/roxblnfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
