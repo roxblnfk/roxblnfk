@@ -5,7 +5,8 @@
  ✔️ [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)  
  ✔️ [Buggregator Trap](https://github.com/buggregator/trap) — debug helpers, CLI-server with console and web UI.
 - **Temporal [PHP-SDK](https://github.com/temporalio/sdk-php)**  
-  Scalable and reliable runtime for durable function executions (Workflows).
+  Scalable and reliable runtime for durable function executions (Workflows). [PHP Samples](https://github.com/temporalio/samples-php).  
+ ✔️ [Temporal PHP Support](https://github.com/temporal-php/support) - Helpers that simplify working with the Temporal PHP SDK
 - **[Yii 3](https://github.com/yiisoft) Framework**  
   Release is comming.  
  ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!
