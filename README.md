@@ -1,6 +1,6 @@
 ### Currently hacking on
 
-- **[dloadl](https://github.com/php-internal/dload)**  
+- **[dload](https://github.com/php-internal/dload)**  
   Download artifacts easily.
 - **[Buggregator](https://github.com/buggregator)**  
   Very cool **free** debug tool. X10 better than Spatie Ray and etc.  
