@@ -1,5 +1,7 @@
 ### Currently hacking on
 
+- **[Wippy](https://github.com/wippyai)**  
+  An AI System That Builds Itself and Your Product
 - **[dload](https://github.com/php-internal/dload)**  
   Download artifacts easily.
 - **[Buggregator](https://github.com/buggregator)**  
@@ -9,9 +11,6 @@
 - **Temporal [PHP-SDK](https://github.com/temporalio/sdk-php)**  
   Scalable and reliable runtime for durable function executions (Workflows). [PHP Samples](https://github.com/temporalio/samples-php).  
  ✔️ [Temporal PHP Support](https://github.com/temporal-php/support) - Helpers that simplify working with the Temporal PHP SDK
-- **[Yii 3](https://github.com/yiisoft) Framework**  
-  Release is comming.  
- ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!
 - **[Spiral](https://github.com/spiral)**  
   The best PHP framework for building distributed and reliable systems. There are Telemetry, IoC Scopes, full integration with [RoadRunner](https://github.com/roadrunner-server/roadrunner),
   interceptors, gRPC and more. [Blog](https://spiral.dev/blog).
@@ -21,6 +20,10 @@
   [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
   [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).  
  ✔️ Like ActiveRecord? Make it easily with Cycle: [`PoC`](https://github.com/roxblnfk/cycle-active-record).
+- **[Yii 3](https://github.com/yiisoft) Framework**  
+  Release is comming.  
+ ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!  
+ ✔️ [Cycle ORM integration](https://github.com/yiisoft/yii-cycle).
 
  ✔️ If you need to generate a complex structure office document 📄 using templates try my
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
