@@ -29,6 +29,10 @@
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
 [Opentbs plugin](https://github.com/Skrol29/opentbs).
 
+### Projects for fun
+
+- **[Happy Wife – Happy Life](https://github.com/roxblnfk/happy-wife-happy-life)** — A desktop application that helps men survive and understand relationships with women using AI-powered insights and cycle tracking. Because nothing distracts from work like family life!
+
 
 ### Follow me
 
