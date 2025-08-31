@@ -19,7 +19,7 @@
   Read summary drafts:
   [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
   [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).  
- ✔️ Like ActiveRecord? Make it easily with Cycle: [`PoC`](https://github.com/roxblnfk/cycle-active-record).
+ ✔️ Like ActiveRecord? Look at [cycle/active-record](https://github.com/cycle/active-record)
 - **[Yii 3](https://github.com/yiisoft) Framework**  
   Release is comming.  
  ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!  
