@@ -31,11 +31,6 @@
 [TinyButStrong fork](https://github.com/roxblnfk/tinybutstrong) with the
 [Opentbs plugin](https://github.com/Skrol29/opentbs).
 
-### Projects for fun
-
-- **Happy Wife – Happy Life** — [censored] (Temporarily hidden until the circumstances are clarified)
-
-
 ### Follow me
 
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X)](https://twitter.com/roxblnfk)
