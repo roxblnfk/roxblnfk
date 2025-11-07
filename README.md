@@ -33,7 +33,7 @@
 
 ### Projects for fun
 
-- **[Happy Wife – Happy Life](https://github.com/roxblnfk/happy-wife-happy-life)** — [censored] (Temporarily hidden until the circumstances are clarified)
+- **Happy Wife – Happy Life** — [censored] (Temporarily hidden until the circumstances are clarified)
 
 
 ### Follow me
