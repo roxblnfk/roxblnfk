@@ -33,7 +33,7 @@
 
 ### Projects for fun
 
-- **[Happy Wife – Happy Life](https://github.com/roxblnfk/happy-wife-happy-life)** — A desktop application that helps men survive and understand relationships with women using AI-powered insights and cycle tracking. Because nothing distracts from work like family life!
+- **[Happy Wife – Happy Life](https://github.com/roxblnfk/happy-wife-happy-life)** — A desktop application that helps men survive and understand relationships with women using AI-powered insights and cycle tracking. Because nothing distracts from work like family life! (Temporarily hidden until the circumstances are clarified.)
 
 
 ### Follow me
