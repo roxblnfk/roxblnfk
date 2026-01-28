@@ -1,7 +1,7 @@
 ### Currently hacking on
 
 - **[Testo](https://github.com/php-testo)**  
-  Comming soon...
+  The PHP Testing Framework You Control
 - **[Wippy](https://github.com/wippyai)**  
   An AI System That Builds Itself and Your Product
 - **[dload](https://github.com/php-internal/dload)**  
