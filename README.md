@@ -4,6 +4,8 @@
   The PHP Testing Framework You Control
 - **[Wippy](https://github.com/wippyai)**  
   An AI System That Builds Itself and Your Product
+- **[Skills](https://github.com/roxblnfk/skills)**  
+  Composer plugin that discovers AI Skills bundled in your packages and installs them into your project — for LLM agents.
 - **[dload](https://github.com/php-internal/dload)**  
   Download artifacts easily.
 - **[Buggregator](https://github.com/buggregator)**  
