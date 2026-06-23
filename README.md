@@ -1,29 +1,29 @@
-### Currently hacking on
+### Currently maintaining
 
 - **[Testo](https://github.com/php-testo)**  
   The PHP Testing Framework You Control
 - **[Skills](https://github.com/roxblnfk/skills)**  
   Composer plugin that discovers AI Skills bundled in your packages and installs them into your project — for LLM agents.
-- **[Wippy](https://github.com/wippyai)**  
-  An AI System That Builds Itself and Your Product
-- **[dload](https://github.com/php-internal/dload)**  
-  Download artifacts easily.
-- **[Buggregator](https://github.com/buggregator)**  
-  Very cool **free** debug tool. X10 better than Spatie Ray and etc.  
- ✔️ [Buggregator Server](https://github.com/buggregator/server) — docker image that includes web page with all bebug tools (var-dump, logs, exceptions, mail trap and tracing!)  
- ✔️ [Buggregator Trap](https://github.com/buggregator/trap) — debug helpers, CLI-server with console and web UI.
-- **Temporal [PHP-SDK](https://github.com/temporalio/sdk-php)**  
-  Scalable and reliable runtime for durable function executions (Workflows). [PHP Samples](https://github.com/temporalio/samples-php).  
- ✔️ [Temporal PHP Support](https://github.com/temporal-php/support) - Helpers that simplify working with the Temporal PHP SDK
-- **[Spiral](https://github.com/spiral)**  
-  The best PHP framework for building distributed and reliable systems. There are Telemetry, IoC Scopes, full integration with [RoadRunner](https://github.com/roadrunner-server/roadrunner),
-  interceptors, gRPC and more. [Blog](https://spiral.dev/blog).
 - **[Cycle ORM](https://github.com/cycle/orm)**  
  ✔️ Made Cycle ORM v2.
   Read summary drafts:
   [`Ru`](https://gist.github.com/roxblnfk/e86fa6c591921b19dd8b9afaa1afd7cf)
   [`En`](https://gist.github.com/roxblnfk/c6dbd42ac2a45d60eca43a2e13388ffa).  
  ✔️ Like ActiveRecord? Look at [cycle/active-record](https://github.com/cycle/active-record)
+- **[Spiral](https://github.com/spiral)**  
+  The best PHP framework for building distributed and reliable systems. There are Telemetry, IoC Scopes, full integration with [RoadRunner](https://github.com/roadrunner-server/roadrunner),
+  interceptors, gRPC and more. [Blog](https://spiral.dev/blog).
+
+### Previously maintained · now on passive support
+
+- **[Wippy](https://github.com/wippyai)**  
+  An AI System That Builds Itself and Your Product
+- **[dload](https://github.com/php-internal/dload)**  
+  Download artifacts easily.
+- **[Buggregator Trap](https://github.com/buggregator/trap)**  
+  Very cool **free** debug tool. X10 better than Spatie Ray and etc. Debug helpers, CLI-server with console and web UI.
+- **[Temporal PHP SDK](https://github.com/temporalio/sdk-php)**  
+  Scalable and reliable runtime for durable function executions (Workflows). [PHP Samples](https://github.com/temporalio/samples-php).
 - **[Yii 3](https://github.com/yiisoft) Framework**  
  ✔️ Made the [Injector](https://github.com/yiisoft/injector) — an independent package from Yii Software. Try it!  
  ✔️ [Cycle ORM integration](https://github.com/yiisoft/yii-cycle).
